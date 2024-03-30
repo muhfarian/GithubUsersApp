@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Github Users</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="following">Following</string>
+    <string name="follower">Follower</string>
+    <string name="searchhint">Search Github Username</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="add_to_favorites">Add to favorite</string>
+    <string name="favorite_list_is_empty">Favorite list is empty</string>
+</resources>

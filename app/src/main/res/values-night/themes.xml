@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GithubUsers" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Remove the action bar -->
+        <item name="windowActionBar">false</item>
+        <!-- Optionally remove the title bar -->
+        <item name="windowNoTitle">true</item>
+        <!-- Customize your dark theme here. -->
+        <item name="android:windowBackground">@color/hitam</item>
+    </style>
+</resources>
